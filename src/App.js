@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div className="home-container">
       <header className="home-body">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="home-logo" alt="logo" />
         <p>
           Lucy is building her website and will have something nice for you soon
         </p>
